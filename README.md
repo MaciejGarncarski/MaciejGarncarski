@@ -3,9 +3,7 @@
 </div>
 
 <div align="center">
-            <h2>Languages and Tools</h2>
-            
+            <h2>Currently Learning</h2>
+            <p><img src="https://img.shields.io/badge/&amp;style=for-the-badge&amp;logo=javascriptn&amp;logoColor=white" alt="JS">
 </div>
 
-
-<b align="center">Keep Learning :man_student:</b>
