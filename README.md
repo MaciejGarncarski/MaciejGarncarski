@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-            <h2>Currently Learning</h2>
-            <p><img src="https://img.shields.io/badge/&amp;style=for-the-badge&amp;logo=javascriptn&amp;logoColor=white" alt="JS">
+            <b>Currently Learning</b>
+            REACT, JAVASCRIPT, SCSS
 </div>
 
