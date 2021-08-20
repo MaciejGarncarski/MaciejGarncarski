@@ -4,6 +4,6 @@
 
 <div align="center">
             <b>Currently Learning</b>
-            REACT, JAVASCRIPT, SCSS
+            REACT, JAVASCRIPT, SCSS, WEBPACK
 </div>
 
