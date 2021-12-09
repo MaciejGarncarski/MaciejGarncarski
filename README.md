@@ -3,7 +3,9 @@
 </div>
 
 <div align="center">
-            <b>Currently Learning</b>
-           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" height="30" width="30"/> <p font-size="30">💅</p>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="30" width="30"/>
+           <b>Currently Learning</b>
+           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" height="30" width="30"/>
+           💅
+           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="30" width="30"/>
 </div>
 
