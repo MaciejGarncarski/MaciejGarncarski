@@ -6,7 +6,7 @@
            <b>I'm using</b>
            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="30" width="30"/>
            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="30" width="30"/>
-           <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" height="30" width="30"/>
+           <span style="font-size: 2rem">💅</span>
            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" height="30" width="30"/>
 </div>
 
