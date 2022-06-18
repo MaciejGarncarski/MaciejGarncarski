@@ -20,4 +20,4 @@
 ![MariaDb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
           
- ![summary card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaciejGarncarski&theme=dracula)![most used langugages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejGarncarski&show_icons=true&bg_color=30,505050,151555&title_color=fff&text_color=fff)
+ ![summary card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaciejGarncarski&theme=dracula)![most used langugages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejGarncarski&show_icons=true&hide_border=true&bg_color=30,505050,151555&title_color=fff&text_color=fff)
