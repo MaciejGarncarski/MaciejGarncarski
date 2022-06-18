@@ -8,7 +8,7 @@
 	 - React
 
 Feel free to contact me!
- 	- mail: <a href="mailto:maciejg0220@gmail.com">maciejg0220@gmail.com"</a>
+ 	- mail: <a href="mailto:maciejg0220@gmail.com">maciejg0220@gmail.com</a>
 	- discord: Maciej#1842
  
  ---
