@@ -7,9 +7,7 @@
 	 - Typescript
 	 - React
 
-Feel free to contact me!
- 	- mail: <a href="mailto:maciejg0220@gmail.com">maciejg0220@gmail.com</a>
-	- discord: Maciej#1842
+Feel free to contact me via <a href="mailto:maciejg0220@gmail.com">e-mail</a> or Discord: Maciej#1842
  
  ---
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
