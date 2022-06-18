@@ -1,8 +1,6 @@
 #  👋 Hi, I'm Maciej :)
-<img src="https://img.shields.io/badge/-🎂%2018%20years%20old%20-lightgreen?style=for-the-badge" alt="how old I am"/>
-<img src="https://img.shields.io/badge/-%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93%20IT%20student%20(4/4%20year)-thistle?style=for-the-badge" alt="student"/>
-<img src="https://img.shields.io/badge/Maciej%231842-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/>
-<img src="https://img.shields.io/badge/-📧%20maciejg0220@gmail.com%20-darkturquoise?style=for-the-badge" alt="mail"/>
+![my age](https://img.shields.io/badge/-🎂%2018%20years%20old%20-lightgreen?style=for-the-badge) ![student](https://img.shields.io/badge/-%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93%20IT%20student%204/4%20year-thistle?style=for-the-badge)  ![mail](https://img.shields.io/badge/-📧%20maciejg0220@gmail.com%20-darkturquoise?style=for-the-badge) ![discord](https://img.shields.io/badge/Maciej%231842-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
  
  I'm actively learning:
 	 - JavaScript
