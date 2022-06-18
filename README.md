@@ -19,12 +19,5 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)	
 ![MariaDb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-        
-        
-<br />
-
-<img src="https://activity-graph.herokuapp.com/graph?username=MaciejGarncarski&theme=minimal" alt="Most used languages"/>
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejGarncarski" alt="Most used languages"/>
+          
+![summary card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaciejGarncarski&theme=vue)![most used langugages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaciejGarncarski)
