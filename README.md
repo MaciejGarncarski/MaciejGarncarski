@@ -23,7 +23,6 @@ Feel free to contact me via <a href="mailto:maciejg0220@gmail.com">e-mail</a> or
 - [📖 Book app]("https://github.com/MaciejGarncarski/github-searcher") - React app created for my classmates, so we don't have to carry this damn book :~)! Tech stack: React, Typescript, sass, Cypress.
 
 - [🧑‍💼 Business website 🌍]("https://github.com/MaciejGarncarski/Buisness-Website") - React app created for my classmates, so we don't have to carry this damn book! Tech stack: React, Styled-Components.
-<br />
 
 ---
 
