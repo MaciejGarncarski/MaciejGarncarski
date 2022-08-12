@@ -13,8 +13,6 @@ Feel free to contact me via <a href="mailto:maciejg0220@gmail.com">e-mail</a> or
 
 ---
 
-<br />
-
 ## 💻 My projects 👷
  
 
@@ -28,8 +26,6 @@ Feel free to contact me via <a href="mailto:maciejg0220@gmail.com">e-mail</a> or
 <br />
 
 ---
-
-<br />
 
 ## 🥸 Other info
 
