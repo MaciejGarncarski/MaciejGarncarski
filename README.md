@@ -16,13 +16,13 @@ Feel free to contact me via <a href="mailto:maciejg0220@gmail.com">e-mail</a> or
 ## 💻 My projects 👷
  
 
-- [🔍 Github Searcher ]("https://github.com/MaciejGarncarski/github-searcher") - NextJS app, which uses Github's REST API to show users and repositories. Tech stack: Typescript, Next, react-query, tailwind, Jest.
+- [🔍 Github Searcher ](https://github.com/MaciejGarncarski/github-searcher) - NextJS app, which uses Github's REST API to show users and repositories. Tech stack: Typescript, Next, react-query, tailwind, Jest.
   
-- [👟 Shoe Shop 🛒]("https://github.com/MaciejGarncarski/shoe-shop") - Typescript app, created to understand how much React makes life easier. While creating "Shoe Shop" I've learned about immutable code, map, filter, accessibility. Tech stack: own router, typescirpt, sass, html.
+- [👟 Shoe Shop 🛒](https://github.com/MaciejGarncarski/shoe-shop) - Typescript app, created to understand how much React makes life easier. While creating "Shoe Shop" I've learned about immutable code, map, filter, accessibility. Tech stack: own router, typescirpt, sass, html.
   
-- [📖 Book app]("https://github.com/MaciejGarncarski/github-searcher") - React app created for my classmates, so we don't have to carry this damn book :~)! Tech stack: React, Typescript, sass, Cypress.
+- [📖 Book app](https://github.com/MaciejGarncarski/github-searcher) - React app created for my classmates, so we don't have to carry this damn book :~)! Tech stack: React, Typescript, sass, Cypress.
 
-- [🧑‍💼 Business website 🌍]("https://github.com/MaciejGarncarski/Buisness-Website") - React app created for my classmates, so we don't have to carry this damn book! Tech stack: React, Styled-Components.
+- [🧑‍💼 Business website 🌍](https://github.com/MaciejGarncarski/Buisness-Website) - React app created for my classmates, so we don't have to carry this damn book! Tech stack: React, Styled-Components.
 
 ---
 
