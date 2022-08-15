@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maciej Garncarski - Frontend developer 🗿
 
-I'm 18 years old student. I love to make apps with Next JS and Typescript. My goal is to learn backend stuff and become a full-stack developer in future. 😎
+I'm an 18-year-old student. I love to make apps with Next JS and Typescript. My goal is to learn backend stuff and become a full-stack developer in the future. 😎
 
 Feel free to contact me via <a href="mailto:maciejg0220@gmail.com">e-mail</a> or Discord: Maciej#1842
 
