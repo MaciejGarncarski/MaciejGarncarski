@@ -1,9 +1,4 @@
-# <b>👋 Hi, I'm Maciej 🗿</b>
-
-I'm an 19-year-old student. <br />
-
-I've been creating websites since 2019. I love to make apps using Next JS and Typescript. My goal is to learn frontend, then some backend and finally become a full-stack developer in the future. 💪
-
+Enthusiast of creating applications, websites and other cool things related to the internet.
 ---
 
 ## <b>👨‍💻 Main stack</b>
