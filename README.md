@@ -1,4 +1,4 @@
-Enthusiast of creating applications, websites and other cool things related to the internet.
+Developer trying to build the fastest websites and web apps.
 ---
 
 ## <b>👨‍💻 Main stack</b>
