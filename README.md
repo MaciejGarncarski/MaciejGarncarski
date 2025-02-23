@@ -4,14 +4,12 @@ Open to work.
 
 Studying computer science at Rzeszów University of Technology.
 
-Skills: HTML, CSS, JavaScript, React, TypeScript, TailwindCSS, Next.js, TanStack, Astro, Node.js, Linux
+Skills: TailwindCSS, TypeScript, React, Next.js, TanStack, Astro, Node.js
 
 ---
 
 Any questions? Ask via:
 
 Email: maciejgarncarski@gmail.com
-
-Phone number: +48 504 673 589
 
 Discord: maciekdeveloper
