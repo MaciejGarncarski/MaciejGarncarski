@@ -32,14 +32,11 @@ Docker, Git, pnpm, Redis, BullMQ, Nginx, Linux
 - [📦 Fetcher – Lightweight fetch wrapper](https://github.com/MaciejGarncarski/fetcher)  
   A minimalist wrapper for the Fetch API with automatic error handling and cleaner syntax.
 
-
 ---
 
 ## 📊 GitHub Stats
 
 ![maciejgarncarski's Stats](https://github-readme-stats.vercel.app/api?username=maciejgarncarski&theme=default&show_icons=true&hide_border=true&count_private=true)
-
-![maciejgarncarski's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maciejgarncarski&theme=default&hide_border=true)
 
 ![maciejgarncarski's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maciejgarncarski&theme=default&show_icons=true&hide_border=true&layout=compact)
 
