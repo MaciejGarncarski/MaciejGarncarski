@@ -1,24 +1,24 @@
-Hi, I'm Maciej 👋  
-I'm a 21-year-old fullstack developer focused on building performant, scalable, and user-centered web applications.
+# Maciej Garncarski | Fullstack Engineer
 
-💡 I specialize in modern TypeScript-based ecosystems, backend systems with real-time capabilities, and clean, maintainable architectures.
+**Focused on Software Craftsmanship, Scalability, and User-Centric Architecture.**
 
----
-
-🛠️ **Tech Stack**
-
-**Languages:** JavaScript / TypeScript, HTML, CSS, SQL  
-**Frontend:** React, Next.js, Tailwind CSS, TanStack libraries  
-**Backend:** Node.js, NestJS, Express, Fastify, PostgreSQL, REST APIs, WebSockets  
-**Tools & DevOps:** Docker, Git, pnpm, Redis, BullMQ, Nginx
+I am a Software Engineer dedicated to building robust digital products. My approach goes beyond writing code; I focus on engineering principles that ensure long-term maintainability, system reliability, and seamless user experiences.
 
 ---
 
-📫 **Contact**  
-🌐 Website: [maciej-garncarski.pl](https://maciej-garncarski.pl)  
-📧 Email: maciejgarncarski@gmail.com  
-💬 Discord: maciekdeveloper
+### 🛠️ Tech Stack & Ecosystem
+
+- **Languages:** TypeScript, JavaScript, SQL (PostgreSQL), HTML/CSS
+- **Backend:** Node.js, NestJS, Fastify, Redis, BullMQ
+- **Frontend:** Next.js, React, Tailwind CSS, TanStack Ecosystem
+- **Tools:** Docker, Nginx, Git, pnpm
 
 ---
 
-⚡ Let’s build something impactful — I’m currently open to frontend/fullstack roles and freelance work.
+### ⚡ Let's Work Together
+
+I am currently open to **Frontend/Fullstack roles** and **freelance partnerships** for projects that value high-quality engineering and meaningful user impact.
+
+🌐 [maciej-garncarski.pl](https://maciej-garncarski.pl)  
+📧 [maciejgarncarski@gmail.com](mailto:maciejgarncarski@gmail.com)  
+💬 Discord: **maciekdeveloper**
