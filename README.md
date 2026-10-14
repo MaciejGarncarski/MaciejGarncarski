@@ -4,4 +4,4 @@
 
 blog [maciejg.dev](https://maciejg.dev) · email `maciejgarncarski@gmail.com` · discord `maciekdeveloper`
 
-![Profile views](https://komarev.com/ghpvc/?username=maciejgarncarski&label=views&style=flat)
+![](https://komarev.com/ghpvc/?username=maciejgarncarski&label=views&style=flat)
